@@ -2,7 +2,7 @@
 
 <br>
 
-And welcome to my GitHub!
+And welcome to my GitHub! This is currently a work in progress.
 
 <br>
 
