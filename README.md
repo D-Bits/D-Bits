@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 <p style="text-align:center;">
-  <p>📫 How to reach me: </p>
+  <p>📫 Elsewhere on the Interwebs: </p>
   <a href="http://danabases.net/contact">
     <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=appveyor" />
   </a>
