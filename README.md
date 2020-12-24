@@ -8,6 +8,23 @@ And welcome to my GitHub! My name is Dana. I am a coder who detests pigeon-holin
 
 <br>
 
+### Primary Tech Stack
+
+- Python 3
+- PostgreSQL
+- Django
+- Airflow
+- Pandas
+- Flask
+- Docker
+- Others 
+
+### Current Projects
+
+- [COVID-19 Reporting](https://covid19-reporting.herokuapp.com/)
+- [Devroast](https://github.com/D-Bits/devroastproject)
+- [Blog/Portfolio Site](https://danabases.net)
+
 <!--
 **D-Bits/D-Bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
