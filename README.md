@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 <p style="text-align:center;">
   <p>📫 Elsewhere on the Interwebs: </p>
-  <a href="http://danabases.net/contact">
-    <img src="https://img.shields.io/badge/-Email+Website-blue?style=for-the-badge&logo=appveyor" target="_blank" />
+  <a href="http://danabases.net/contact" target="_blank">
+    <img src="https://img.shields.io/badge/-Email+Website-blue?style=for-the-badge&logo=appveyor" />
   </a>
-  <a href="http://linkedin.com/in/danabases">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor" target="_blank" />
+  <a href="http://linkedin.com/in/danabases" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor" />
   </a>
 </p>
