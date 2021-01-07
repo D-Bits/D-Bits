@@ -2,13 +2,32 @@
 
 <br>
 
+<<<<<<< HEAD
 *This is currently a work in progress.*
 
 And welcome to my GitHub! My name is Dana. I am a coder who detests pigeon-holing himself into a single job title/role. That said, I primarily specialize in implementing solutions with Python and PostgreSQL. To learn more about me, and my work, feel free to visit the links below.
 
 Also, I'm currently looking for work. So, feel free to reach out if you and/or your team needs a developer.
+=======
+And welcome to my GitHub! My name is Dana. I am a coder who detests pigeon-holing himself into a single job title/role. That said, I primarily specialize in implementing solutions with Python and PostgreSQL. To learn more about me, and my work, feel free to visit the links below. 
+>>>>>>> 071401be724d80bfdc31509d7f5680e5902eaa8f
 
-<br>
+### Primary Tech Stack
+
+- Python 3
+- PostgreSQL
+- Django
+- Airflow
+- Pandas
+- Flask
+- Docker
+- Others 
+
+### Current Major Projects
+
+- [COVID-19 Reporting](https://covid19-reporting.herokuapp.com/)
+- [Devroast](https://github.com/D-Bits/devroastproject)
+- [Blog/Portfolio Site](https://danabases.net)
 
 <!--
 **D-Bits/D-Bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +46,7 @@ Here are some ideas to get you started:
 
 
 <p style="text-align:center;">
-  <p>📫 How to reach me: </p>
+  <p>📫 Elsewhere on the Interwebs: </p>
   <a href="http://danabases.net/contact">
     <img src="https://img.shields.io/badge/-Email+Website-blue?style=for-the-badge&logo=appveyor" />
   </a>
