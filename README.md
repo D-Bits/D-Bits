@@ -2,8 +2,6 @@
 
 <br>
 
-*This is currently a work in progress.*
-
 And welcome to my GitHub! My name is Dana. I am a coder who detests pigeon-holing himself into a single job title/role. That said, I primarily specialize in implementing solutions with Python and PostgreSQL. To learn more about me, and my work, feel free to visit the links below.
 
 Also, I'm currently looking for work. So, feel free to reach out if you and/or your team needs a developer.
