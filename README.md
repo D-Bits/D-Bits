@@ -15,11 +15,13 @@ Also, I'm currently looking for work. So, feel free to reach out if you and/or y
 - Pandas
 - Flask
 - Docker
+- Spark
 - Others 
 
 ### Current Major Projects
 
 - [COVID-19 Reporting](https://covid19-reporting.herokuapp.com/)
+- [DemocracyLab](https://github.com/DemocracyLab/CivicTechExchange)
 - [Devroast](https://github.com/D-Bits/devroastproject)
 - [Blog/Portfolio Site](https://danabases.net)
 
