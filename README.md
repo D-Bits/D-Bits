@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-[terrace farm](banner.png)
+![terrace farm](banner.png)
 
 <br>
 
