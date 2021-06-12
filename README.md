@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-[terrace farm](/terrace-farming.jpg)
+[terrace farm](banner.png)
 
 <br>
 
