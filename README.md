@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[stats](https://github-readme-stats.vercel.app/api/?username=d-bits&count_private=true&theme=tokyonight&showicons=true)
 
 <p style="text-align:center;">
   <p>📫 Elsewhere on the Interwebs: </p>
