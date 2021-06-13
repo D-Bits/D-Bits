@@ -8,17 +8,7 @@ And welcome to my GitHub! My name is Dana. I am a coder who detests pigeon-holin
 
 Also, I'm currently looking for work. So, feel free to reach out if you and/or your team needs a developer.
 
-### Primary Tech Stack
-
-- Python 3
-- PostgreSQL
-- Django
-- Airflow
-- Pandas
-- Flask
-- Docker
-- Spark
-- Others 
+![stats](https://github-readme-stats.vercel.app/api/?username=d-bits&count_private=true&theme=tokyonight&showicons=true)
 
 ### Current Major Projects
 
@@ -41,8 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![stats](https://github-readme-stats.vercel.app/api/?username=d-bits&count_private=true&theme=tokyonight&showicons=true)
 
 <p style="text-align:center;">
   <p>📫 Elsewhere on the Interwebs: </p>
